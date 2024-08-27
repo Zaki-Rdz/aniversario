@@ -1,0 +1,31 @@
+*{
+margin: 0;
+}
+
+.contenedor{
+    background-color: cornflowerblue;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-style: normal;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5%;
+
+
+}
+.AlinearFlex{
+   display: flex;
+   justify-content: center;
+   background-color: cornflowerblue;
+  
+
+}
+.gif1{
+    display: flex;
+   justify-content: center;
+   background-color: cornflowerblue;
+}
